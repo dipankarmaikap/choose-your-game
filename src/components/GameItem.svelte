@@ -106,51 +106,35 @@
     </div>
     <div class="bg-dark-300 rounded-lg p-2 flex justify-between items-center">
       <div class="left flex items-center space-x-4 text-lg">
-        <span
-          ><svg
+        <span>
+          <svg
             width="18"
-            height="18"
-            viewBox="0 0 18 18"
+            height="17"
+            viewBox="0 0 18 17"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
           >
             <g opacity="0.64">
-              <rect
-                x="4.78391"
-                y="0.814889"
-                width="2.60553"
-                height="4.87347"
-                rx="1.30277"
-                stroke="#798694"
-                stroke-width="1.36336"
-              />
-              <rect
-                x="11.0204"
-                y="0.814889"
-                width="2.60553"
-                height="4.87347"
-                rx="1.30277"
-                stroke="#798694"
-                stroke-width="1.36336"
-              />
               <path
-                d="M4.66906 2.96814H3.53509C2.28254 2.96814 1.26715 3.98353 1.26715 5.23608V14.8748C1.26715 16.1274 2.28254 17.1427 3.53509 17.1427H14.8748C16.1273 17.1427 17.1427 16.1274 17.1427 14.8748V5.23608C17.1427 3.98353 16.1273 2.96814 14.8748 2.96814H13.7408M7.50398 2.96814H9.20493H10.9059"
+                d="M4.84937 5.66675H11.9327"
                 stroke="#798694"
-                stroke-width="1.36336"
-              />
-              <path
-                d="M4.66852 10.3976H6.988"
-                stroke="#798694"
-                stroke-width="1.36336"
+                stroke-width="1.41667"
                 stroke-linecap="round"
-                stroke-linejoin="bevel"
+                stroke-linejoin="round"
               />
               <path
-                d="M11.627 10.3976H13.9464"
+                d="M4.84937 9.91675H9.09937"
                 stroke="#798694"
-                stroke-width="1.36336"
+                stroke-width="1.41667"
                 stroke-linecap="round"
-                stroke-linejoin="bevel"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M1.3077 3.4C1.3077 1.91343 2.5128 0.708333 3.99937 0.708333H9.09937H14.1994C15.6859 0.708333 16.891 1.91343 16.891 3.4V13.6C16.891 15.0866 15.6859 16.2917 14.1994 16.2917H3.99936C2.5128 16.2917 1.3077 15.0866 1.3077 13.6V3.4Z"
+                stroke="#798694"
+                stroke-width="1.41667"
+                stroke-linecap="round"
+                stroke-linejoin="round"
               />
             </g>
           </svg>
